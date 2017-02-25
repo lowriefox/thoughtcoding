@@ -1,0 +1,4 @@
+﻿{
+  "status":"1",
+  "detail":{"name":"zhangzhen","id":"06143097","major":"嵌入式","class":"智能1403","telephone":"15321037181","stage":"一面通过"}
+}

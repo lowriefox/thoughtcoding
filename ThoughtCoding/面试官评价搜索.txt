@@ -1,0 +1,6 @@
+﻿{
+	"status":"2",
+	"detail":{"name":"zhangsan","id":"04141103","class":"软工1403","phone":"13152470610","stage":"第一次面试","major":"p3"},
+	"score":{"基础能力":"分数","技术水平":"分数","学习能力":"分数","态度":"分数"},
+	"judge":{"firstJudge":"评价内容","secondJudge":"评价内容"}
+}

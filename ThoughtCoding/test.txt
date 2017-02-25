@@ -1,0 +1,4 @@
+{
+  "status":"1",
+  "detial":[{"name":"zhangzhen","id":"06143097","major":"嵌入式","class":"智能1403","telephone":"15321037181","stage":"一面通过"},{"name":"zhangsan","id":"04141103","major":"web开发","class":"计科1404","telephone":"15321037181","stage":"一面通过"},{"name":"zhangzhen","id":"06143097","major":"大数据","class":"智能1403","telephone":"15321037181","stage":"一面通过"},{"name":"zhangzhen","id":"06143097","major":"web开发","class":"智能1403","telephone":"15321037181","stage":"一面通过"},{"name":"zhangzhen","id":"06143097","major":"Android开发","class":"智能1403","telephone":"15321037181","stage":"一面通过"},{"name":"zhangzhen","id":"06143097","major":"大数据","class":"智能1403","telephone":"15321037181","stage":"一面通过"}]
+}

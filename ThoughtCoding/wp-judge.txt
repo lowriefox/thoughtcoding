@@ -1,0 +1,6 @@
+{"student_name":"王佩","student_class":"软件1404",
+"access":{
+"first":{"supplement":"表现非常好！！！！！非常喜欢！！！！！请务必好好留下来评价评价评价评价评价评价评价评价评价评价评价评价评价评价评价评价评价评价","student_id":1099340,"technicalscore":10,"studyability":10,"basescore":10,"type":1,"attitude":10},"second":{}
+},
+"student_id":1099340,"phone_number":"12345678987","direction":"嵌入式","status":1
+}
